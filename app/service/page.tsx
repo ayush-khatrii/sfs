@@ -1,4 +1,4 @@
-import ServicesSection from "@/page/ServicePage";
+import ServicesSection from "@/components/page/ServicePage";
 
 export default function page() {
   return (
