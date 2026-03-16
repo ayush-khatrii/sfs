@@ -6,7 +6,7 @@ import React from 'react'
 
 const page = () => {
   return (
-    <div className='h-[2000px]'>
+    <div className='h-500'>
       <HeroCarousel />
       <Services />
       <WhyChooseUs />
